@@ -1,8 +1,9 @@
-## Hi there 👋
+## 我是TJJ 👋
 
 <!--
 **TJJ123456/TJJ123456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+- 🤔 我在学 ...
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🤔 我在学C++，但是我现在什么也不会
+- 😄 哈哈哈哈
